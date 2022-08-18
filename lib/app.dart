@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_week14/contact.dart';
+import 'package:flutter_week14/list_view_demo.dart';
+import 'package:flutter_week14/list_view_menu.dart';
+import 'package:flutter_week14/list_view_separate.dart';
 import 'home.dart';
 
 class MyApp extends StatelessWidget{
@@ -8,8 +11,7 @@ class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext buildContext){ //2.build
     return MaterialApp(
-      home: ContactPage(
-
+      home: ListViewMenu(
       ),
     );
   }
