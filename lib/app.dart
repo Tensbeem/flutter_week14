@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_week14/card_demo.dart';
 import 'package:flutter_week14/contact.dart';
+import 'package:flutter_week14/list_tile_view.dart';
 import 'package:flutter_week14/list_view_demo.dart';
 import 'package:flutter_week14/list_view_menu.dart';
 import 'package:flutter_week14/list_view_separate.dart';
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext buildContext){ //2.build
     return MaterialApp(
-      home: CardDemo(
+      home: ListTilePage(
       ),
     );
   }
