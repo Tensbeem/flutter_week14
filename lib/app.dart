@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_week14/card_demo.dart';
 import 'package:flutter_week14/contact.dart';
 import 'package:flutter_week14/list_view_demo.dart';
 import 'package:flutter_week14/list_view_menu.dart';
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext buildContext){ //2.build
     return MaterialApp(
-      home: ListViewMenu(
+      home: CardDemo(
       ),
     );
   }
