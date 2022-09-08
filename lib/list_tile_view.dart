@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class  ListTilePage extends StatelessWidget {
+class ListTilePage extends StatelessWidget {
   const ListTilePage({Key? key}) : super(key: key);
 
   @override
@@ -13,144 +13,108 @@ class  ListTilePage extends StatelessWidget {
         child: Column(
           children: [
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
               },
             ),
             ListTile(
-              title: Text("Mark Zuckerberg"),
+              title: Text("Marl Zuckerberg"),
               subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
-              onTap: () {
-                print("Spiderman");
-              },
-            ),
-            ListTile(
-              title: Text("Mark Zuckerberg"),
-              subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
-              onTap: () {
-                print("Spiderman");
-              },
-            ),
-            ListTile(
-              title: Text("Mark Zuckerberg"),
-              subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
-              onTap: () {
-                print("Spiderman");
-              },
-            ),
-            ListTile(
-              title: Text("Mark Zuckerberg"),
-              subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
-              trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
-              onTap: () {
-                print("Spiderman");
-              },
-            ),
-            ListTile(
-              title: Text("Mark Zuckerberg"),
-              subtitle: Text("Facebook"),
-              leading: Icon(Icons.account_circle,color: Colors.indigo, size: 55,),
+              leading: Icon(Icons.account_circle, color: Colors.indigo, size: 55),
               trailing: IconButton(onPressed: () {}, icon: Icon(Icons.delete,color: Colors.red)),
               onTap: () {
                 print("Spiderman");
@@ -160,10 +124,10 @@ class  ListTilePage extends StatelessWidget {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.pink[200],
+        backgroundColor: Colors.purple,
         child: Icon(Icons.add_a_photo),
         onPressed: () {
-          print("MENU-1");
+          print("Menu-1");
         },
       ),
     );

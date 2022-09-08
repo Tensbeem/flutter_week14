@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class  ContactPage extends StatelessWidget {
+class ContactPage extends StatelessWidget {
   const ContactPage({Key? key}) : super(key: key);
 
   @override
@@ -10,7 +10,16 @@ class  ContactPage extends StatelessWidget {
         title: Text("MyApp"),
       ),
       body: Center(
-          child: Text("Home App")
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.start,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text("ติดต่อเรา: Mr.Mark Zuckaberg"),
+            Text("เบอร์โทร: 0954720124"),
+            Text("mark@gmail.com"),
+          ],
+        ),
       ),
     );
   }
